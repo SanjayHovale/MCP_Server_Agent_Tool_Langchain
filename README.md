@@ -13,4 +13,4 @@ Example Use case:
 2. You: what is the weather in Mumbai
    Bot: The weather in Mumbai is currently sunny with a temperature of 75°F.
    
-[https://www.instagram.com/popin_shopin?avpt=cTlueTc3ZDY0YXky&utm_source=qr](https://topmate.io/popin_shopin/2416094)
+
